@@ -1,6 +1,5 @@
 # GFG_DSA_SHEET
 
-- [x] [1. Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
 - [x] [1. Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0)
 - [x] [2. Equilibrium point ](https://practice.geeksforgeeks.org/problems/equilibrium-point/0)
 - [x] [3. Sort an array of 0s, 1s and 2s ](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
@@ -11,8 +10,8 @@
 - [x] [8. K-th element of two sorted Arrays ](https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0)
 - [x] [9. Check if two arrays are equal or not ](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not/0)
 - [x] [10. Kadane’s Algorithm ](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0)
-- [ ] [11. Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
-- [ ] [12. Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
+- [x] [11. Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)
+- [x] [12. Trapping Rain Water](https://practice.geeksforgeeks.org/problems/trapping-rain-water/0)
 - [ ] [13. Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms/0)
 - [ ] [14. Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
 - [ ] [15. Largest Number formed from an Array ](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0)
